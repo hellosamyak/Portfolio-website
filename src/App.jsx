@@ -150,7 +150,7 @@ const ACHIEVEMENTS = [
     ),
     image: "/images/port-win.jpg",
     date: "2025",
-    place: "Indian Institute of Forest Management, Bhopal",
+    place: "Indian Institute of Forest Management",
   },
 ];
 
